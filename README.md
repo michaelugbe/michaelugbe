@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/michelugbe/LABURL)
+  - [Honeypot Lab](https://github.com/michaelugbe/Honeypot-Lab)
 
 <h2>Certifications: </h2>
 
