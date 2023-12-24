@@ -7,7 +7,7 @@
 
 <h2>Certifications: </h2>
 
-- [Google Cybsersecurity Certification]([https://www.coursera.org/account/accomplishments/specialization/certificate/ABTTJ4UCMLPC])
+- [Google Cybsersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/ABTTJ4UCMLPC)
 
 
 
