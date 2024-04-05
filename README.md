@@ -1,9 +1,10 @@
-<h1>Hi, I'm Michael! 
+<h1>Hi there, thanks for stopping by!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 
   - [Honeypot Lab](https://github.com/michaelugbe/Honeypot-Lab)
+  - 
 
 <h2>Certifications: </h2>
 
