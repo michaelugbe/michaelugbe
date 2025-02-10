@@ -1,17 +1,19 @@
-<h1>Hi there, thanks for stopping by!
+<h1>Hi, I'm Michael Ugbe, an <a href="https://linkedin.com/in/michaelugbe/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
-  - [Honeypot Lab](https://github.com/michaelugbe/Honeypot-Lab)
-  - osTicket (Help Desk Ticketing System)
-     * [osTicket: Prerequisites and Installation](https://github.com/michaelugbe/Honeypot-Lab)
-     * [osTicket: Post Installation Configuration](https://github.com/michaelugbe/Honeypot-Lab)
-     * [osTicket: Ticket Lifecycle Examples](https://github.com/michaelugbe/Honeypot-Lab)
+<h3>Certifications: </h3>
 
-<h2>Certifications: </h2>
-
-- [Google Cybsersecurity Certification](https://github.com/michaelugbe/Honeypot-Lab)
+- [Google Cybsersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/ABTTJ4UCMLPC)
 - [CompTIA Security+](https://github.com/michaelugbe/Honeypot-Lab)
 
 
