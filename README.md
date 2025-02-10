@@ -4,10 +4,14 @@
 
 
   - [Honeypot Lab](https://github.com/michaelugbe/Honeypot-Lab)
-  - 
+  - osTicket (Help Desk Ticketing System)
+     * [osTicket: Prerequisites and Installation](https://github.com/michaelugbe/Honeypot-Lab)
+     * [osTicket: Post Installation Configuration](https://github.com/michaelugbe/Honeypot-Lab)
+     * [osTicket: Ticket Lifecycle Examples](https://github.com/michaelugbe/Honeypot-Lab)
 
 <h2>Certifications: </h2>
 
-- [Google Cybsersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/ABTTJ4UCMLPC)
+- [Google Cybsersecurity Certification](https://github.com/michaelugbe/Honeypot-Lab)
+- [CompTIA Security+](https://github.com/michaelugbe/Honeypot-Lab)
 
 
