@@ -10,8 +10,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michaelugbe/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaelugbe/azure-network-protocols)
 
+<h3>👨‍💻 Cybersecurity Projects:</h3>
 
-<h3>Certifications: </h3>
+- <b>Honeypot (Azure)</b>
+  - [Microsoft Azure Honeypot Lab](https://github.com/michaelugbe/Honeypot-Lab)
+
+
+<h4>👨‍💻 Certifications:</h4>
 
 - [Google Cybsersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/ABTTJ4UCMLPC)
 - [CompTIA Security+](https://i.imgur.com/nyepcCW.png)
