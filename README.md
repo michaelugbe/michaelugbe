@@ -14,6 +14,6 @@
 <h3>Certifications: </h3>
 
 - [Google Cybsersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/ABTTJ4UCMLPC)
-- [CompTIA Security+](https://github.com/michaelugbe/Honeypot-Lab)
+- [CompTIA Security+](https://i.imgur.com/nyepcCW.png)
 
 
