@@ -5,18 +5,18 @@
 ## 👨‍💻 Information Technology Projects:
 
 ### osTicket (Help Desk Ticketing System)
-- [osTicket: Prerequisites and Installation](https://github.com/michaelugbe/osticket-prereqs)
-- [osTicket: Post-Installation Configuration](https://github.com/michaelugbec/post-install-config)
-- [osTicket: Ticket Lifecycle Examples](https://github.com/michaelugbe/ticket-lifecycle)
+- [osTicket Lab](https://github.com/michaelugbe/osticket-prereqs)
 
-### Microsoft Azure
+### Active Directory 
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michaelugbe/configure-ad)
+
+### Network Security
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaelugbe/azure-network-protocols)
 
 ---
 
 ## 👨‍💻 Cybersecurity Projects:
-- **Honeypot (Azure)**
+### Honeypot (Azure)
   - [Microsoft Azure Honeypot Lab](https://github.com/michaelugbe/Honeypot-Lab)
 
 ---
